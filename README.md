@@ -3,9 +3,8 @@
 </center>
 <h3 align="center">🥭  Me 🥭</h3>
 <p align="center">
-<a href="https://sieunju.github.io"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
-<a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-FA7343?style=flat&logo=Gitlab"/></a> 
-<a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-EE3322"/></a>
+<a href="https://github.com/isemang"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
+<a href="https://velog.io/@fantastik"><img src="https://img.shields.io/badge/Blog-12B886"/></a>
 </p>
 
 <h3 align="center">💕 Most Used Language 💕</h3>
