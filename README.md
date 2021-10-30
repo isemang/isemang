@@ -1,5 +1,5 @@
 <center>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=minjin Park&fontSize=90"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=Minjin Park&fontSize=90"/>
 </center>
 <h3 align="center">🥭  Me 🥭</h3>
 <p align="center">
