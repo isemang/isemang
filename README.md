@@ -1,15 +1,3 @@
-<h3 align="center">🥭  Me 🥭</h3>
-<p align="center">
-<a href="https://github.com/isemang"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
-<a href="https://velog.io/@fantastik"><img src="https://img.shields.io/badge/Blog-12B886"/></a>
-</p>
-
-<h3 align="center">💕 Most Used Language 💕</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isemang&layout=compact&langs_count=5" />
-</p>
-
-<h3 align="center">🚀  Tech Stack 🚀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"/>
