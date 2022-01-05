@@ -1,4 +1,5 @@
 <a href="https://citrine-taker-c91.notion.site/540bd21b67ee43eb95a7091a296d9b4e" rel="nofollow"><img src="https://camo.githubusercontent.com/1b07a9ef4b23d42e92ee540f4f8615e20aafe4fb57d7ddbb5622c539d70597a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d4e6f74696f6e2d6f72616e67653f7374796c653d666c61742d737175617265" alt="Resume" data-canonical-src="https://img.shields.io/badge/Resume-Notion-orange?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisemang&count_bg=%23983BC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java"/> 
